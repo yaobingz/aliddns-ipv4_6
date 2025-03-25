@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #脚本最好用bash运行，命令格式：bash aliddns
 #下面引号内改成你的阿里ak
 aliddnsipv6_ak="修改我"
